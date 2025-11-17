@@ -58,6 +58,4 @@ Skills Demonstrated
   * Portfolio documentation
   * Basic risk interpretation
 
-Add additional services to analyze (Apache, MySQL, etc.)
-
 Document comparisons across different scans.
