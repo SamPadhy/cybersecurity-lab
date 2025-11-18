@@ -1,0 +1,10 @@
+# Nmap 7.80 scan initiated Sun Nov 16 23:46:46 2025 as: nmap -sV -oN /home/vmuserone/cyberlab/nmap-project/scan1.txt 10.0.2.15
+Nmap scan report for vmuserone-VirtualBox (10.0.2.15)
+Host is up (0.000012s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.13 (Ubuntu Linux; protocol 2.0)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Nov 16 23:46:47 2025 -- 1 IP address (1 host up) scanned in 1.12 seconds
